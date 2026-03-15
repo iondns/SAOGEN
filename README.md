@@ -1,2 +1,2 @@
 # sao
-![description](/saogen.png)
+![description](/saogen-black.jpg)
