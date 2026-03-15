@@ -70,7 +70,6 @@ The long-term objective is to develop an ecosystem where innovation evolves thro
 
 ```mermaid
 graph TD;
-    QOGE-->PUBLIC;
     Q0GE-->SAOGEN;
     SAOGEN-->SAS;
    
