@@ -71,10 +71,11 @@ The long-term objective is to develop an ecosystem where innovation evolves thro
 ```mermaid
 graph TD;
     Q0GE-->SAOGEN;
-    SAOGEN-->STELASER;
-    STELASER-->SAOGEN;
-    QOGE-->D;
-    C-->D;
+    SAOGEN-->QOGE;
+    SAOGEN-->SAS;
+    SAS-->SAOGEN;
+    QOGE-->RETAIL;
+    RETAL-->SAOGEN;
 ```
                      SAOGEN
         Symbiotic Autonomous Organization (SAO)
