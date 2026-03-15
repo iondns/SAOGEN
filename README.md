@@ -70,12 +70,11 @@ The long-term objective is to develop an ecosystem where innovation evolves thro
 
 ```mermaid
 graph TD;
+    RETAIL-->QOGE;
     Q0GE-->SAOGEN;
-    SAOGEN-->QOGE;
     SAOGEN-->SAS;
-    SAS-->SAOGEN;
-    QOGE-->RETAIL;
-    RETAIL-->SAOGEN;
+    SAS-->PUBLIC;
+   
 ```
                      SAOGEN
         Symbiotic Autonomous Organization (SAO)
