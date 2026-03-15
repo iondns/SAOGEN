@@ -33,19 +33,19 @@ SAOGEN is designed to function as an innovation infrastructure layer, supporting
 
 SAOGEN introduces several structural innovations that distinguish it from traditional blockchain projects:
 
-Symbiotic Autonomous Organization (SAO)
+- Symbiotic Autonomous Organization (SAO)
 A governance architecture designed to coordinate human intelligence and AI-assisted analysis within a decentralized decision-making framework.
 
-Hyper-Optimization of Innovation
+- Hyper-Optimization of Innovation
 Technological concepts and research proposals can be iteratively refined through AI-assisted analysis and community governance processes.
 
-Shared Intellectual Property Governance
+- Shared Intellectual Property Governance
 Inventions generated within the ecosystem can be collectively managed, licensed, and developed, enabling transparent collaboration around technological assets.
 
-Symbiotic Autonomous Systems (SAS)
+- Symbiotic Autonomous Systems (SAS)
 The organization supports the development of advanced systems that combine decentralized governance, AI coordination, and collaborative engineering processes.
 
-AI Logical Nodes
+- AI Logical Nodes
 Advanced computational systems and AI laboratories can act as logical optimization nodes within the ecosystem, contributing analytical capabilities and computational resources.
 
 ## What Is the Role of the SAOGEN Token?
@@ -54,15 +54,15 @@ The SAOGEN token enables participation in the governance and coordination mechan
 
 Token holders can participate in:
 
-• Decentralized governance decisions
+- Decentralized governance decisions
 
-• Voting on innovation proposals and development initiatives
+- Voting on innovation proposals and development initiatives
 
-• Participation in shared intellectual property frameworks
+- Participation in shared intellectual property frameworks
 
-• Access to AI-assisted hyper-optimization tools
+- Access to AI-assisted hyper-optimization tools
 
-• Potential revenue participation from collectively governed technological assets
+- Potential revenue participation from collectively governed technological assets
 
 Through this structure, the SAOGEN token aligns incentives between researchers, developers, contributors, and community participants while enabling transparent governance of shared technological resources.
 
