@@ -29,7 +29,7 @@ The ecosystem enables contributors to propose ideas, coordinate development, and
 
 SAOGEN is designed to function as an innovation infrastructure layer, supporting the creation and evolution of technologies that benefit from collaborative intelligence and distributed decision-making.
 
-What Makes SAOGEN Unique?
+## What Makes SAOGEN Unique?
 
 SAOGEN introduces several structural innovations that distinguish it from traditional blockchain projects:
 
@@ -48,7 +48,7 @@ The organization supports the development of advanced systems that combine decen
 AI Logical Nodes
 Advanced computational systems and AI laboratories can act as logical optimization nodes within the ecosystem, contributing analytical capabilities and computational resources.
 
-What Is the Role of the SAOGEN Token?
+## What Is the Role of the SAOGEN Token?
 
 The SAOGEN token enables participation in the governance and coordination mechanisms of the ecosystem.
 
@@ -62,7 +62,7 @@ Token holders can participate in:
 
 Through this structure, the SAOGEN token aligns incentives between researchers, developers, contributors, and community participants while enabling transparent governance of shared technological resources.
 
-Vision
+## Vision
 
 SAOGEN aims to establish a new model for coordinating large-scale technological innovation. By combining decentralized governance, artificial intelligence, and collaborative intellectual property management, the organization seeks to create systems capable of continuous technological optimization and collective invention.
 
