@@ -11,11 +11,13 @@ SAOGEN acts as the core governance and intellectual property coordination layer 
 
 Through decentralized governance and shared intellectual property stewardship, SAOGEN aims to establish a new model for coordinating large-scale innovation networks. The ecosystem enables ideas, inventions, and technological frameworks to evolve through continuous optimization driven by both human insight and advanced AI systems acting as logical nodes within the network.
 
+```ruby
 #//About SAOGEN
 
 Within this framework, SAOGEN acts as the core governance and intellectual property coordination layer of the QOGE ecosystem, enabling collective invention, transparent IP stewardship, and long-term technological development. The organization supports the creation of Symbiotic Autonomous Systems (SAS) — complex systems that combine AI reasoning, distributed coordination, and collaborative engineering.
 
 By integrating decentralized governance with advanced computational intelligence, SAOGEN aims to create an environment where innovation can evolve through continuous optimization and collective participation.
+```
 
 What Is SAOGEN (SAOGEN)?
 
