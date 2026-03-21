@@ -22,7 +22,7 @@ The ecosystem enables contributors to propose ideas, coordinate development, and
 SAOGEN is designed to function as an innovation infrastructure layer, supporting the creation and evolution of technologies that benefit from collaborative intelligence and distributed decision-making.
 -->
 ##
-![description](files/images/saogen-250x250.png)
+
 ## What Makes SAOGEN Unique?
 Traditional research and development structures often isolate intellectual property and limit collaborative optimization. 
 
