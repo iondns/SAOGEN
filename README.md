@@ -7,8 +7,6 @@ SAOGEN acts as the core governance and intellectual property coordination layer 
 <!--Designed as an AI-coordinated innovation infrastructure, -->
 SAOGEN focuses on hyper-optimization of research, engineering systems, and intellectual property governance. The organization enables contributors, researchers, and computational systems to collaboratively develop advanced technological concepts within a decentralized framework.
 
-Traditional research and development structures often isolate intellectual property and limit collaborative optimization. SAOGEN introduces a model where inventions and technological concepts can be collectively developed, governed, and refined through a decentralized framework.
-
 Through decentralized governance and shared intellectual property stewardship, SAOGEN aims to establish a new model for coordinating large-scale innovation networks. The ecosystem enables ideas, inventions, and technological frameworks to evolve through continuous optimization driven by both human insight and advanced AI systems acting as logical nodes within the network.
 
 <!--
@@ -26,6 +24,7 @@ SAOGEN is designed to function as an innovation infrastructure layer, supporting
 ##
 ![description](files/images/saogen-250x250.png)
 ## What Makes SAOGEN Unique?
+Traditional research and development structures often isolate intellectual property and limit collaborative optimization. SAOGEN introduces a model where inventions and technological concepts can be collectively developed, governed, and refined through a decentralized framework.
 
 SAOGEN introduces several structural innovations that distinguish it from traditional blockchain projects:
 
