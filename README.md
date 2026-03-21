@@ -1,6 +1,6 @@
 
-![description]<p align="center">(files/images/saogen-250x250.png)
-  </p>
+![description] <p align="center"> (files/images/saogen-250x250.png)  </p>
+
 ##
 ## About SAOGEN
 
