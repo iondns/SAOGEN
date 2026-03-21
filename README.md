@@ -1,7 +1,7 @@
 
 ![description](files/images/saogen-250x250.png)
 ##
-![description](<p align="center" width="100%">files/images/saogen-250x250.png</p>).
+<p align="center" width="100%">![description](files/images/saogen-250x250.png)</p>
 
 ##
 ## About SAOGEN
