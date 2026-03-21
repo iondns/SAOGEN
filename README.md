@@ -4,7 +4,8 @@ SAOGEN is a Symbiotic Autonomous Organization (SAO) — a new post-DAO category 
 ##
 SAOGEN acts as the core governance and intellectual property coordination layer of the QOGE ecosystem, supporting the creation and evolution of Symbiotic Autonomous Systems (SAS) — technological systems that combine AI reasoning, distributed coordination, and collaborative engineering.
 
-Designed as an AI-coordinated innovation infrastructure, SAOGEN focuses on hyper-optimization of research, engineering systems, and intellectual property governance. The organization enables contributors, researchers, and computational systems to collaboratively develop advanced technological concepts within a decentralized framework.
+<!--Designed as an AI-coordinated innovation infrastructure, -->
+SAOGEN focuses on hyper-optimization of research, engineering systems, and intellectual property governance. The organization enables contributors, researchers, and computational systems to collaboratively develop advanced technological concepts within a decentralized framework.
 
 Traditional research and development structures often isolate intellectual property and limit collaborative optimization. SAOGEN introduces a model where inventions and technological concepts can be collectively developed, governed, and refined through a decentralized framework.
 
