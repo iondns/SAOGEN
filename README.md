@@ -1,5 +1,5 @@
 ![description](files/images/saogen-250x250.png)
-## About SAOGEN
+##
 
 SAOGEN is a Symbiotic Autonomous Organization (SAO) — a new post-DAO category of decentralized organizations where human intelligence and artificial intelligence collaborate to generate, optimize, and govern technological innovation.
 
