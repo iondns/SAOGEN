@@ -4,7 +4,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**SAOGEN** is an **experimental** framework exploring a new category of decentralized organization: the **Symbiotic Autonomous Organization (SAO)**. It combines human insight with AI-assisted analysis and optimization within a decentralized, on-chain governance structure built on the QOGE blockchain (with Solana ecosystem integrations for speed and composability).
+**SAOGEN** is an **experimental** framework exploring a new category of decentralized organization: 
+the **Symbiotic Autonomous Organization (SAO)**. 
+
+It combines human insight with AI-assisted analysis and optimization within a decentralized, on-chain governance structure built on the QOGE blockchain (with Solana ecosystem integrations for speed and composability).
 
 **This is strictly an experimental project** — focused on testing concepts in decentralized coordination, AI-augmented innovation, and shared intellectual property stewardship. No specific real-world applications, commercial outcomes, or guaranteed results are promised or implied.
 
