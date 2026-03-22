@@ -1,3 +1,4 @@
+![description](files/images/saogen-250x250.png)
 # SAOGEN
 
 **Experimental Symbiotic Autonomous Organization on the QOGE ecosystem**
