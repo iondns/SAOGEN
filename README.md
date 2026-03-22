@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**SAOGEN** is an **experimental** framework exploring a new post-DAO category of decentralized organization: 
+**SAOGEN** is an **experimental** framework exploring a new **Post-DAO** category of decentralized organization: 
 the **Symbiotic Autonomous Organization (SAO)**. 
 
 It combines human insight with AI-assisted analysis and optimization within a decentralized, on-chain governance structure built on the QOGE blockchain (with Solana ecosystem integrations for speed and composability).
