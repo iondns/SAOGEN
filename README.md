@@ -1,7 +1,7 @@
 ![description](files/images/saogen_logo250x250.png)
 # 
 
-**Symbiotic Autonomous Organization (SAO) on the [QOGE](https://github.com/qogecoin/qogecoin) ecosystem**
+**Symbiotic Autonomous Organization (SAO) on the [SOLANA](https://solana.com/) ecosystem**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
