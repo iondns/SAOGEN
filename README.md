@@ -38,7 +38,7 @@ All development remains abstract and experimental — no guaranteed production s
 ## SAOGEN Token (Experimental Governance Token)
 <!-- ![description](files/images/saogen_logo250x250.png) -->
 
-The SAOGEN token is an experimental utility/governance token minted on Solana, with each token conceptually tied to PoW-mined QOGE coins for computational backing.
+The SAOGEN token is an experimental utility/governance token minted on Solana,for computational backing.
 
 Token holders **may** participate in:
 - Decentralized governance decisions (voting on proposals within the experimental framework)
