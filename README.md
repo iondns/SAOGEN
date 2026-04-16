@@ -67,7 +67,7 @@ Contributions are welcome in the form of ideas, code experiments, documentation,
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) file.
+MIT License — see [LICENSE](https://opensource.org/licenses/MIT) file.
 
 ---
 
