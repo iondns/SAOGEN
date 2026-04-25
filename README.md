@@ -5,12 +5,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![License: MIT](files/images/sipiconb.png)](https://github.com/QOGE/SAOGEN/blob/main/files/SharedIP.md)
 
 **SAOGEN** is an **experimental** framework exploring a new **Post-DAO** category of decentralized organization: 
 the **Symbiotic Autonomous Organization (SAO)**. 
 
 It combines human insight with AI-assisted analysis and optimization within a decentralized governance structure built on [QOGE](https://qoge.org/) and **[SOLANA](https://solana.com/)** ecosystem  for speed and composability.
+
+[![License: MIT](files/images/sipiconb.png)](https://github.com/QOGE/SAOGEN/blob/main/files/SharedIP.md)
 
 **This is strictly an experimental project** — focused on testing concepts in decentralized coordination, AI-augmented innovation, and **[shared intellectual property](https://github.com/QOGE/SAOGEN/blob/main/files/SharedIP.md)** stewardship. No specific real-world applications, commercial outcomes, or guaranteed results are promised or implied.
 
