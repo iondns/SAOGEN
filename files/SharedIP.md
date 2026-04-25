@@ -1,4 +1,4 @@
-![description](files/images/sipiconc.png)
+![description](files/images/sipiconb.png)
 # 
 
 Shared IP within SAOGEN
