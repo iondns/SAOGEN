@@ -1,4 +1,4 @@
-![description](https://github.com/QOGE/SAOGEN/blob/main/files/images/sip.jpg)
+![description](https://github.com/QOGE/SAOGEN/blob/main/files/images/sipiconb.jpg)
 
 Shared IP within SAOGEN
 ---
