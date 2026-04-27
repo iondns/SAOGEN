@@ -97,7 +97,8 @@ Future enhancements: Dynamic reputation systems, soulbound-style tokens for cont
 
 9. AI-Assisted Invention
     
-SAOGEN embraces human-AI symbiosis as a core strength. 
+SAOGEN embraces human-AI symbiosis as a core strength.
+
 AI can accelerate exploration, simulation, optimization, flaw detection, and iteration.
 Policy:
 
