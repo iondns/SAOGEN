@@ -1,9 +1,9 @@
 ![description](https://github.com/QOGE/SAOGEN/blob/main/files/images/sipiconc.png)
 
-Shared IP within SAOGEN
+Shared Intellectual Property within SAOGEN
 ---
 
-Shared IP (SIP) is the intellectual asset layer of SAOGEN: a governance and value-sharing framework for inventions, optimizations, technical methods, datasets, designs, software modules, operational procedures, and research outputs developed inside the Symbiotic Autonomous Organization.
+SIP - is the intellectual asset layer of SAOGEN: a governance and value-sharing framework for inventions, optimizations, technical methods, datasets, designs, software modules, operational procedures, and research outputs developed inside the Symbiotic Autonomous Organization.
 
 Within SAOGEN, generated inventions and optimizations are treated as collectively valued intellectual assets. The economic value derived from these assets may come from licensing, infrastructure usage fees, R&D repayment, ecosystem services, internal deployment, research partnerships, or other lawful commercialization paths approved by governance.
 
