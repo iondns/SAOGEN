@@ -69,6 +69,7 @@ Revenue or usage events can be logged transparently for accountability.
 This creates an auditable “intellectual asset registry” that evolves with the ecosystem.
 
 7. Value Generation and Distribution
+   
 SIP assets may generate value through:
 
 Licensing or technology transfer agreements.
@@ -85,6 +86,7 @@ Transparent accounting via on-chain or audited ledgers.
 Important Disclaimer: Participation in SIP does not constitute securities, equity, guaranteed returns, dividends, or automatic income. Value flows only when governance activates specific paths.
 
 8. Contributor Recognition and Attribution
+   
 Contributors participate through research, coding, testing, validation, documentation, AI prompting/oversight, infrastructure operation, or governance.
 Attribution Model:
 
