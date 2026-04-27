@@ -9,11 +9,12 @@ Status: Draft for community and governance discussion
 
 ---
 1. Introduction
+
 The Shared Intellectual Property (SIP) framework is the dedicated intellectual asset layer of the Symbiotic Autonomous Organization (SAOGEN). It governs inventions, optimizations, designs, code modules, research outputs, procedures, datasets, and other knowledge assets created through human-AI collaboration within the ecosystem.
 SIP transforms collective innovation into durable, collectively governed assets. Value may emerge from licensing, usage fees, commercial deployments, partnerships, internal optimizations, or ecosystem services — always subject to explicit governance approval and legal compliance.
 SIP balances openness (to attract talent and build community) with strategic protection (to maintain technological and competitive advantage). It avoids premature public disclosure or patent races while enabling fair recognition of contributors.
 
-2. Purpose
+3. Purpose
 SIP exists to:
 Accumulate and steward long-term intellectual capital for the ecosystem.
 Enable transparent yet controlled attribution and participation in value created by SAOGEN activities.
