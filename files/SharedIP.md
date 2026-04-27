@@ -19,9 +19,9 @@ SIP is designed to support:
 - coordination between human contributors, AI-assisted research, software systems, and specialized SAOGEN subsystems;
 - a durable incentive model for decentralized innovation without forcing premature patent disclosure.
 
-## What can become Shared IP
+## What can become Shared Intellectual Property
 
-Shared IP may include, but is not limited to:
+SIP may include, but is not limited to:
 
 - engineering concepts and system architectures;
 - software, scripts, interfaces, and automation logic;
