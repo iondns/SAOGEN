@@ -94,6 +94,7 @@ Incentives: Reputation scores, elevated governance voting weight, preferential a
 Future enhancements: Dynamic reputation systems, soulbound-style tokens for contributions (experimental, non-transferable), or sub-DAOs for specific SIP domains.
 
 9. AI-Assisted Invention
+    
 SAOGEN embraces human-AI symbiosis as a core strength. AI can accelerate exploration, simulation, optimization, flaw detection, and iteration.
 Policy:
 
