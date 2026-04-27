@@ -101,6 +101,7 @@ Governance may designate “AI logical nodes” or subsystems as contributors wi
 Human oversight and accountability remain essential for quality, safety, and legal compliance.
 
 This aligns with evolving legal norms that generally require meaningful human contribution for traditional IP rights while allowing collective ecosystem ownership of refined assets.
+
 10. Protection Strategy
 
 Default Approach: Trade secrets + controlled disclosure in early stages.
@@ -109,7 +110,9 @@ Selective Patenting: Pursued only for mature, high-impact assets once legal/fund
 No SAOGEN document constitutes a full enabling disclosure or rights waiver.
 
 Governance may evolve this strategy as the ecosystem matures.
+
 11. Governance, Security, and Evolution
+
 Governance Role:
 
 Classify and curate SIP assets.
