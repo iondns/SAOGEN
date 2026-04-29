@@ -87,9 +87,9 @@ Before starting major work, discuss the proposal in the official [SAOGEN](https:
 
 For small fixes, such as typos or minor layout improvements, you may open a pull request directly.
 
-### Step 2: Fork the Repository
+### Step 2: Fork a Repository
 
-Fork the repository to your own GitHub account and create a new branch:
+Fork the target repository to your own GitHub account and create a new branch:
 
 EXAMPLE: 🔽
 
