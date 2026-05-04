@@ -71,6 +71,7 @@ The compounding loop — humans directing AI Nodes, AI Nodes generating and refi
 ## 2. Foundational Principles
 
 **2.1 Intent-Weighted Attribution**
+
 The quality of creative direction matters as much as the contribution itself. A human who carefully architects a problem space, guides multiple iteration cycles, and makes deliberate selection decisions has exercised meaningful creative judgment — even when the output is AI-generated. Attribution is sensitive to the depth of human creative direction, not merely its presence. The same principle extends to AI Nodes: a Node that produces a novel synthesis from a rich, structured prompt has contributed more than one that produces a generic response to a vague one.
 
 **2.2 Lifecycle Governance**
