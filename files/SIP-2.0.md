@@ -98,7 +98,7 @@ Every public disclosure is a deliberate governance act. SAOGEN reveals the minim
 
 **2.7 Honest Uncertainty**
 
-SIP-C does not pretend that AI authorship, SAS accountability, or multi-body value distribution are legally settled. Where the law is unclear, governance creates internal rules that are fair, consistent, and capable of adapting to legal developments.
+SIP-2.0 does not pretend that AI authorship, SAS accountability, or multi-body value distribution are legally settled. Where the law is unclear, governance creates internal rules that are fair, consistent, and capable of adapting to legal developments.
 
 ---
 
